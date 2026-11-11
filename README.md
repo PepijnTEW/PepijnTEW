@@ -31,4 +31,4 @@
 
 ## Featured Work
 
-Check out my **Pinned Repositories** below for two of my repo's my nixos config and my portfolio!
+Check out my **Pinned Repositories** below for my NixOS config and my web development portfolio!
